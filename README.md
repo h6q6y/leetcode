@@ -1,4 +1,6 @@
 # leetcode #
+## 动态规划 ##
+- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/submissions/)
 ## 字符串 ##
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
 ## 哈希表 ##
