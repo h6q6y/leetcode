@@ -1,19 +1,24 @@
 # leetcode #
 ## 数组 ##
-- [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/submissions/)
+- [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
+- [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 动态规划 ##
-- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/submissions/)
+- [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 ## 字符串 ##
-- [1119. 删去字符串中的元音](https://leetcode-cn.com/problems/remove-vowels-from-a-string/submissions/)
+- [1119. 删去字符串中的元音](https://leetcode-cn.com/problems/remove-vowels-from-a-string/solution/c-by-lashizhendiniupi-5/)
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
+- [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cjian-dan-yi-dong-by-lashizhendiniupi/)
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 ## 位运算 ##
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
+## 堆 ##
+- [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
-- []()
-- []()
+- [1281. 整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solution/c-by-lashizhendiniupi-2/)
+- [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
+- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/cjian-dan-zuo-fa-by-lashizhendiniupi/)
 - []()
