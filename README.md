@@ -1,4 +1,6 @@
 # leetcode #
+## 数组 ##
+- [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/submissions/)
 ## 动态规划 ##
 - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/submissions/)
 ## 字符串 ##
