@@ -1,6 +1,7 @@
 # leetcode #
 ## 数组 ##
 - [1064. 不动点](https://leetcode-cn.com/problems/fixed-point/solution/c-by-lashizhendiniupi-8/)
+- [1085. 最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/solution/c-by-lashizhendiniupi-11/)
 - [1304. 和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/solution/c-by-lashizhendiniupi-9/)
 - [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
@@ -9,6 +10,8 @@
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 ## 字符串 ##
+- [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
+- [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/solution/c-by-lashizhendiniupi-13/)
 - [1119. 删去字符串中的元音](https://leetcode-cn.com/problems/remove-vowels-from-a-string/solution/c-by-lashizhendiniupi-5/)
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cjian-dan-yi-dong-by-lashizhendiniupi/)
