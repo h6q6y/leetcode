@@ -3,6 +3,7 @@
 - [1064. 不动点](https://leetcode-cn.com/problems/fixed-point/solution/c-by-lashizhendiniupi-8/)
 - [1304. 和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/solution/c-by-lashizhendiniupi-9/)
 - [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
+- [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 动态规划 ##
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
