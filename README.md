@@ -1,5 +1,6 @@
 # leetcode #
 ## 数组 ##
+- [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/solution/c-by-lashizhendiniupi-20/)
 - [1064. 不动点](https://leetcode-cn.com/problems/fixed-point/solution/c-by-lashizhendiniupi-8/)
 - [1085. 最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/solution/c-by-lashizhendiniupi-11/)
 - [1304. 和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/solution/c-by-lashizhendiniupi-9/)
