@@ -12,6 +12,8 @@
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
+## 贪心 ##
+- [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 ## 字符串 ##
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
 - [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/solution/c-by-lashizhendiniupi-13/)
