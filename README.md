@@ -14,6 +14,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 动态规划 ##
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
