@@ -14,6 +14,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 栈 ##
+- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
 - [682. 棒球比赛](https://leetcode-cn.com/submissions/detail/30521412/)
 - [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
