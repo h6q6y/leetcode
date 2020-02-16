@@ -18,10 +18,10 @@
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
+- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
-- []()
 - []()
 - []()
 ## 贪心 ##
