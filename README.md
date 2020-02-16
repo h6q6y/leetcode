@@ -19,6 +19,7 @@
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
+- [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
