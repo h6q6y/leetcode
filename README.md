@@ -15,6 +15,7 @@
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 栈 ##
 - [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
+- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
 ## 动态规划 ##
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
