@@ -14,7 +14,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 栈 ##
-### 简单 ###（完）
+### 简单(完) ###
 - [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
 - [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
 - [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
@@ -26,7 +26,7 @@
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
 
 ## 动态规划 ##
-### 简单 ###
+### 简单(完) ###
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
@@ -43,6 +43,8 @@
 - []()
 - []()
 ## 排序 ##
+### 简单 ###
+- [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
