@@ -36,10 +36,12 @@
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
-- []()
-- []()
+
 ### 中等 ###
 - [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
+- [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
+- []()
+- []()
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
