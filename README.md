@@ -15,6 +15,7 @@
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 栈 ##
 - [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
+- [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
 - [232. 用栈实现队列](https://leetcode-cn.com/submissions/detail/5071624/)
 - [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
 - [682. 棒球比赛](https://leetcode-cn.com/submissions/detail/30521412/)
