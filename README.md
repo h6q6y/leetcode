@@ -14,6 +14,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 ## 栈 ##
+### 简单 ###（完）
 - [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
 - [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
 - [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
@@ -36,12 +37,12 @@
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
-
 ### 中等 ###
 - [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 - []()
 - []()
+## 排序 ##
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
