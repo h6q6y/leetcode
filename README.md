@@ -46,6 +46,7 @@
 ### 简单 ###
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
 - [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
+- [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
