@@ -73,9 +73,12 @@
 
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
+
 ## 队列 ##
-### 简单 ###
+### 简单(完) ###
 - [933. 最近的请求次数](https://leetcode-cn.com/submissions/detail/15198302/)
+- [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/solution/shu-ju-liu-zhong-de-yi-dong-ping-jun-zhi-by-leetco/)
+
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
