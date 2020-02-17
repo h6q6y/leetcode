@@ -60,9 +60,9 @@
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 ## 位运算 ##
-- [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
-- []()
+- [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
+- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - []()
 
 ## 堆 ##
