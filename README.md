@@ -63,6 +63,8 @@
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
+- []()
 - []()
 
 ## 堆 ##
@@ -73,6 +75,7 @@
 
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
+- []()
 
 ## 队列 ##
 ### 简单(完) ###
