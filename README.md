@@ -23,7 +23,9 @@
 - [844. 比较含退格的字符串](https://leetcode-cn.com/submissions/detail/5469632/)
 - [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
+
 ## 动态规划 ##
+### 简单 ###
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
@@ -36,6 +38,9 @@
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 - []()
 - []()
+### 中等 ###
+- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
+
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 ## 字符串 ##
