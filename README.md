@@ -73,6 +73,7 @@
 - [461. 汉明距离](https://leetcode-cn.com/submissions/detail/47882156/)
 - [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/solution/java-yi-huo-yun-suan-by-dukewen/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
+- [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/submissions/detail/25089745/)
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
