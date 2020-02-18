@@ -39,6 +39,7 @@
 - [144. 二叉树的前序遍历](https://leetcode-cn.com/submissions/detail/15459971/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/submissions/detail/15459217/)
 - [921. 使括号有效的最少添加](https://leetcode-cn.com/submissions/detail/15446742/)
+- [1265. 逆序打印不可变链表](https://leetcode-cn.com/submissions/detail/48032550/)
 
 ## 动态规划 ##
 ### 简单(完) ###
