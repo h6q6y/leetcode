@@ -13,6 +13,10 @@
 - [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
+
+## 树 ##
+### 简单 ###
+- [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
 ## 栈 ##
 ### 简单(完) ###
 - [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
