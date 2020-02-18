@@ -27,6 +27,7 @@
 
 ### 中等 ###
 - [94. 二叉树的中序遍历](https://leetcode-cn.com/submissions/detail/30812549/)
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/submissions/detail/15459971/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/submissions/detail/15459217/)
 - [921. 使括号有效的最少添加](https://leetcode-cn.com/submissions/detail/15446742/)
 
