@@ -63,6 +63,7 @@
 - [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
 - []()
 - []()
+
 ## 排序 ##
 ### 简单 ###
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
@@ -71,15 +72,18 @@
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
+
 ## 字符串 ##
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
 - [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/solution/c-by-lashizhendiniupi-13/)
 - [1119. 删去字符串中的元音](https://leetcode-cn.com/problems/remove-vowels-from-a-string/solution/c-by-lashizhendiniupi-5/)
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cjian-dan-yi-dong-by-lashizhendiniupi/)
+
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
+
 ## 位运算 ##
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
 - [169. 多数元素](https://leetcode-cn.com/submissions/detail/31323214/)
@@ -95,7 +99,7 @@
 
 
 ## 堆 ##
-### 简单 ###
+### 简单(完成) ###
 - [703. 数据流中的第K大元素](https://leetcode-cn.com/submissions/detail/5453539/)
 - [1046. 最后一块石头的重量](https://leetcode-cn.com/submissions/detail/30745141/)
 - [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
