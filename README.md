@@ -43,16 +43,16 @@
 
 ## 动态规划 ##
 ### 简单(完) ###
-- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
-- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
+- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
+- [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
 - [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
-- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
-- [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 ### 中等 ###
 - [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
