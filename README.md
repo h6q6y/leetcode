@@ -55,13 +55,13 @@
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 ### 中等 ###
 - [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
-- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 - [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
-- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
+- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
+- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
+- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
-- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
 - []()
 - []()
 
