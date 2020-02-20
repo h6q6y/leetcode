@@ -28,6 +28,7 @@
 - [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
 *******************************************************************************
 （2）
+- [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 - [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
 *******************************************************************************
