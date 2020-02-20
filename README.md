@@ -28,9 +28,9 @@
 - [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
 - [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
 - [232. 用栈实现队列](https://leetcode-cn.com/submissions/detail/5071624/)
-- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
 - [844. 比较含退格的字符串](https://leetcode-cn.com/submissions/detail/5469632/)
 - [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
+- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
 - [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
 - [682. 棒球比赛](https://leetcode-cn.com/submissions/detail/30521412/)
 
