@@ -23,20 +23,27 @@
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 ### 中等 ###
 *******************************************************************************
+（1）
 - [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
 - [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
 *******************************************************************************
+（2）
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 - [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
 *******************************************************************************
+（3）
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 *******************************************************************************
+（4）
 - [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
 *******************************************************************************
+（5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
+（6）
 *******************************************************************************
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 *******************************************************************************
+（7）
 - [523. 连续的子数组和](https://leetcode-cn.com/submissions/detail/39561636/)
 - []()
 
