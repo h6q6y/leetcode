@@ -1,21 +1,28 @@
 # leetcode #
 ## 动态规划 ##
 ### 简单(完) ###
+*****************************************************************************
+（1）
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 *****************************************************************************
+（2）
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
 - [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
 ******************************************************************************
+（3）
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
 *******************************************************************************
+（4）
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 *******************************************************************************
+（5）
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 ### 中等 ###
+*******************************************************************************
 - [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
 - [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
 *******************************************************************************
@@ -35,12 +42,15 @@
 
 ## 堆 ##
 ### 简单(完成) ###
+*******************************************************************************
 - [703. 数据流中的第K大元素](https://leetcode-cn.com/submissions/detail/5453539/)
 - [1046. 最后一块石头的重量](https://leetcode-cn.com/submissions/detail/30745141/)
 - [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
+*******************************************************************************
 
 ## 栈 ##
 ### 简单(完) ###
+*******************************************************************************
 - [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
 - [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
 *******************************************************************************
