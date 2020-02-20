@@ -11,6 +11,7 @@
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
 - [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
+- [935. 骑士拨号器](https://leetcode-cn.com/submissions/detail/28613396/)
 ******************************************************************************
 （3）
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
@@ -40,8 +41,8 @@
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
-（6）
 *******************************************************************************
+（6）
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 *******************************************************************************
 （7）
