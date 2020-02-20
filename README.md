@@ -1,4 +1,68 @@
 # leetcode #
+## 动态规划 ##
+### 简单(完) ###
+- [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
+- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
+- [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
+*****************************************************************************
+- [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
+- [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
+- [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
+******************************************************************************
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
+*******************************************************************************
+- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
+*******************************************************************************
+- [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
+### 中等 ###
+- [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
+- [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
+*******************************************************************************
+- [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
+- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
+*******************************************************************************
+- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
+*******************************************************************************
+- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
+*******************************************************************************
+- [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
+*******************************************************************************
+- [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
+*******************************************************************************
+- []()
+- []()
+
+## 堆 ##
+### 简单(完成) ###
+- [703. 数据流中的第K大元素](https://leetcode-cn.com/submissions/detail/5453539/)
+- [1046. 最后一块石头的重量](https://leetcode-cn.com/submissions/detail/30745141/)
+- [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
+
+## 栈 ##
+### 简单(完) ###
+- [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
+- [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
+*******************************************************************************
+- [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
+- [232. 用栈实现队列](https://leetcode-cn.com/submissions/detail/5071624/)
+*******************************************************************************
+- [844. 比较含退格的字符串](https://leetcode-cn.com/submissions/detail/5469632/)
+- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
+*******************************************************************************
+- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
+*******************************************************************************
+- [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
+*******************************************************************************
+- [682. 棒球比赛](https://leetcode-cn.com/submissions/detail/30521412/)
+
+### 中等 ###
+- [94. 二叉树的中序遍历](https://leetcode-cn.com/submissions/detail/30812549/)
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/submissions/detail/15459971/)
+- [173. 二叉搜索树迭代器](https://leetcode-cn.com/submissions/detail/15459217/)
+- [921. 使括号有效的最少添加](https://leetcode-cn.com/submissions/detail/15446742/)
+- [1265. 逆序打印不可变链表](https://leetcode-cn.com/submissions/detail/48032550/)
+
 ## 数组 ##
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
 - []()
@@ -18,52 +82,6 @@
 - [226. 翻转二叉树](https://leetcode-cn.com/submissions/detail/5071428/)
 - [617. 合并二叉树](https://leetcode-cn.com/submissions/detail/5432264/)
 - [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
-- []()
-- []()
-
-
-## 栈 ##
-### 简单(完) ###
-- [20. 有效的括号](https://leetcode-cn.com/submissions/detail/5501556/)
-- [1021. 删除最外层的括号](https://leetcode-cn.com/submissions/detail/16442720/)
-- [225. 用队列实现栈](https://leetcode-cn.com/submissions/detail/5071304/)
-- [232. 用栈实现队列](https://leetcode-cn.com/submissions/detail/5071624/)
-- [844. 比较含退格的字符串](https://leetcode-cn.com/submissions/detail/5469632/)
-- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/submissions/detail/19961917/)
-- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/solution/xia-yi-ge-geng-da-yuan-su-i-by-leetcode/)
-- [155. 最小栈](https://leetcode-cn.com/submissions/detail/5011231/)
-- [682. 棒球比赛](https://leetcode-cn.com/submissions/detail/30521412/)
-
-### 中等 ###
-- [94. 二叉树的中序遍历](https://leetcode-cn.com/submissions/detail/30812549/)
-- [144. 二叉树的前序遍历](https://leetcode-cn.com/submissions/detail/15459971/)
-- [173. 二叉搜索树迭代器](https://leetcode-cn.com/submissions/detail/15459217/)
-- [921. 使括号有效的最少添加](https://leetcode-cn.com/submissions/detail/15446742/)
-- [1265. 逆序打印不可变链表](https://leetcode-cn.com/submissions/detail/48032550/)
-
-## 动态规划 ##
-### 简单(完) ###
-- [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
-- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
-- [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
-*****************************************************************************
-- [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
-- [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
-- [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
-******************************************************************************
-- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
-- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
-- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
-- [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
-### 中等 ###
-- [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
-- [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
-- [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
-- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
-- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
-- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
-- [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
-- [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 - []()
 - []()
 
@@ -99,13 +117,6 @@
 - [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
-
-
-## 堆 ##
-### 简单(完成) ###
-- [703. 数据流中的第K大元素](https://leetcode-cn.com/submissions/detail/5453539/)
-- [1046. 最后一块石头的重量](https://leetcode-cn.com/submissions/detail/30745141/)
-- [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
 
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
