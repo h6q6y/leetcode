@@ -6,6 +6,9 @@
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
+
+- [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
+- [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
 *****************************************************************************
 （2）
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
