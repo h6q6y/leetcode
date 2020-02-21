@@ -11,16 +11,19 @@
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [256. 粉刷房子](https://leetcode-cn.com/submissions/detail/47649298/)
 - [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
+- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
 - [935. 骑士拨号器](https://leetcode-cn.com/submissions/detail/28613396/)
 ******************************************************************************
 （3）
-- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/solution/c-by-lashizhendiniupi-29/)
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/submissions/detail/47653367/)
+- [523. 连续的子数组和](https://leetcode-cn.com/submissions/detail/39561636/)
 *******************************************************************************
 （4）
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 *******************************************************************************
 （5）
+- [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 ### 中等 ###
 *******************************************************************************
@@ -36,17 +39,8 @@
 （3）
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 *******************************************************************************
-（4）
-- [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
-*******************************************************************************
-（5）
-- [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
-*******************************************************************************
 （6）
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
-*******************************************************************************
-（7）
-- [523. 连续的子数组和](https://leetcode-cn.com/submissions/detail/39561636/)
 *******************************************************************************
 （8）
 - [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/39573558/)
