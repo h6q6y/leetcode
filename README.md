@@ -23,6 +23,7 @@
 *******************************************************************************
 （4）
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
+- [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
