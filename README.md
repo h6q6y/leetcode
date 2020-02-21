@@ -1,6 +1,5 @@
 # leetcode #
 ## 动态规划 ##
-### 简单(完) ###
 *****************************************************************************
 （1）
 - [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
@@ -27,6 +26,7 @@
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 - [647. 回文子串](https://leetcode-cn.com/submissions/detail/16752763/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
+- [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/38640301/)
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
