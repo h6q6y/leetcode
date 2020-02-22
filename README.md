@@ -45,6 +45,7 @@
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
+- [646. 最长数对链](https://leetcode-cn.com/submissions/detail/16756212/)
 - []()
 
 ## 位运算 ##
