@@ -150,14 +150,6 @@
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
 - []()
 
-## 树 ##
-### 简单 ###
-- [226. 翻转二叉树](https://leetcode-cn.com/submissions/detail/5071428/)
-- [617. 合并二叉树](https://leetcode-cn.com/submissions/detail/5432264/)
-- [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
-- []()
-- []()
-
 ## 字符串 ##
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
 - [709. 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/solution/c-by-lashizhendiniupi-13/)
@@ -169,6 +161,13 @@
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 
+## 树 ##
+### 简单 ###
+- [226. 翻转二叉树](https://leetcode-cn.com/submissions/detail/5071428/)
+- [617. 合并二叉树](https://leetcode-cn.com/submissions/detail/5432264/)
+- [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
+- []()
+- []()
 
 ## 图 ##
 ## 其他 ##
