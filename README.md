@@ -46,7 +46,7 @@
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
 - [646. 最长数对链](https://leetcode-cn.com/submissions/detail/16756212/)
-- []()
+- [361. 轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)
 
 ## 位运算 ##
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
