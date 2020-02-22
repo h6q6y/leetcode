@@ -47,6 +47,25 @@
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
 - []()
 
+## 位运算 ##
+- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
+- [169. 多数元素](https://leetcode-cn.com/submissions/detail/31323214/)
+- [191. 位1的个数](https://leetcode-cn.com/submissions/detail/25106060/)
+- [389. 找不同](https://leetcode-cn.com/submissions/detail/25103903/)
+- [461. 汉明距离](https://leetcode-cn.com/submissions/detail/47882156/)
+- [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/solution/java-yi-huo-yun-suan-by-dukewen/)
+- [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
+- [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/submissions/detail/25089745/)
+- [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
+- [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
+- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+## 排序 ##
+### 简单 ###
+- [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
+- [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
+- [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
+
 ## 堆 ##
 ### 简单(完成) ###
 *******************************************************************************
@@ -102,12 +121,6 @@
 - []()
 - []()
 
-## 排序 ##
-### 简单 ###
-- [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
-- [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
-- [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
-
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
@@ -121,19 +134,6 @@
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
-
-## 位运算 ##
-- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
-- [169. 多数元素](https://leetcode-cn.com/submissions/detail/31323214/)
-- [191. 位1的个数](https://leetcode-cn.com/submissions/detail/25106060/)
-- [389. 找不同](https://leetcode-cn.com/submissions/detail/25103903/)
-- [461. 汉明距离](https://leetcode-cn.com/submissions/detail/47882156/)
-- [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/solution/java-yi-huo-yun-suan-by-dukewen/)
-- [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
-- [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/submissions/detail/25089745/)
-- [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
-- [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
-- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
