@@ -77,6 +77,10 @@
 
 ## 分治 ##
 
+## 随机 ##
+
+## 贪心 ##
+
 ## 双指针 ##
 
 ## 二分查找 ##
@@ -88,10 +92,6 @@
 ## 拒绝抽样 ##
 
 ## 滑动窗口 ##
-
-## 随机 ##
-
-## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
 
