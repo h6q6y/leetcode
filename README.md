@@ -93,6 +93,21 @@
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
+
+## 数组 ##
+- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
+- []()
+- []()
+- [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/solution/c-by-lashizhendiniupi-20/)
+- [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/solution/c-by-lashizhendiniupi-21/)
+- [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/solution/c-by-lashizhendiniupi-24/)
+- [1064. 不动点](https://leetcode-cn.com/problems/fixed-point/solution/c-by-lashizhendiniupi-8/)
+- [1085. 最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/solution/c-by-lashizhendiniupi-11/)
+- [1304. 和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/solution/c-by-lashizhendiniupi-9/)
+- [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
+- [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
+- [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
+
 ## 堆 ##
 ### 简单(完成) ###
 *******************************************************************************
@@ -126,19 +141,14 @@
 - [921. 使括号有效的最少添加](https://leetcode-cn.com/submissions/detail/15446742/)
 - [1265. 逆序打印不可变链表](https://leetcode-cn.com/submissions/detail/48032550/)
 
-## 数组 ##
-- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
+## 队列 ##
+### 简单(完) ###
+- [933. 最近的请求次数](https://leetcode-cn.com/submissions/detail/15198302/)
+- [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/solution/shu-ju-liu-zhong-de-yi-dong-ping-jun-zhi-by-leetco/)
+
+## 链表 ##
+- [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
 - []()
-- []()
-- [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/solution/c-by-lashizhendiniupi-20/)
-- [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/solution/c-by-lashizhendiniupi-21/)
-- [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/solution/c-by-lashizhendiniupi-24/)
-- [1064. 不动点](https://leetcode-cn.com/problems/fixed-point/solution/c-by-lashizhendiniupi-8/)
-- [1085. 最小元素各数位之和](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/solution/c-by-lashizhendiniupi-11/)
-- [1304. 和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/solution/c-by-lashizhendiniupi-9/)
-- [1313. 解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/solution/c-by-lashizhendiniupi-3/)
-- [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
-- [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 
 ## 树 ##
 ### 简单 ###
@@ -159,15 +169,8 @@
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 
-## 链表 ##
-- [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
-- []()
 
-## 队列 ##
-### 简单(完) ###
-- [933. 最近的请求次数](https://leetcode-cn.com/submissions/detail/15198302/)
-- [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/solution/shu-ju-liu-zhong-de-yi-dong-ping-jun-zhi-by-leetco/)
-
+## 图 ##
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
