@@ -66,6 +66,33 @@
 - [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
 - [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
 
+## DFS ##
+
+## BFS ##
+
+## 并查集 ##
+
+## 拓扑排序 ##
+
+## 递归 ##
+
+## 双指针 ##
+
+## 分治 ##
+
+## 二分查找 ##
+
+## 回溯 ##
+
+## 随机 ##
+
+## 拒绝抽样 ##
+
+## 滑动窗口 ##
+
+## 贪心 ##
+- [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
+
 ## 堆 ##
 ### 简单(完成) ###
 *******************************************************************************
@@ -120,9 +147,6 @@
 - [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
 - []()
 - []()
-
-## 贪心 ##
-- [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
 ## 字符串 ##
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
