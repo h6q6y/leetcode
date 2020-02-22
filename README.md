@@ -27,6 +27,7 @@
 - [647. 回文子串](https://leetcode-cn.com/submissions/detail/16752763/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
 - [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/38640301/)
+- [516. 最长回文子序列](https://leetcode-cn.com/submissions/detail/25966577/)
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
@@ -47,6 +48,7 @@
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
 - [646. 最长数对链](https://leetcode-cn.com/submissions/detail/16756212/)
 - [361. 轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)
+- []()
 
 ## 位运算 ##
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
