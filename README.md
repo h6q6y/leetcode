@@ -72,6 +72,7 @@
 - [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
 
 ## DFS ##
+- [339. 嵌套列表权重和](https://leetcode-cn.com/problems/nested-list-weight-sum/)
 
 ## BFS ##
 
