@@ -84,6 +84,7 @@
 ## 随机 ##
 
 ## 贪心 ##
+- [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
 ## 双指针 ##
 
@@ -97,8 +98,6 @@
 
 ## 滑动窗口 ##
 - [5325. 包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/solution/javahua-dong-chuang-kou-by-shuaijie-zhang/)
-- [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
-
 
 ## 数组 ##
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
