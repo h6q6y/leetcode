@@ -92,6 +92,7 @@
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
 
 ## 双指针 ##
+- [1213. 三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/solution/cben-ban-fa-by-hou-yao-kun/)
 
 ## 二分查找 ##
 
