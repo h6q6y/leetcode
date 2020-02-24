@@ -87,6 +87,7 @@
 - [169. 多数元素](https://leetcode-cn.com/problems/majority-element/solution/fen-zhi-di-gui-fang-fa-by-cang-cu-de-xia-tian/)
 
 ## 随机 ##
+- [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/solution/yong-rand7-shi-xian-rand10-by-leetcode/)
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
