@@ -95,6 +95,7 @@
 - [1213. 三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/solution/cben-ban-fa-by-hou-yao-kun/)
 
 ## 二分查找 ##
+- [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
 
 ## 并查集 ##
 - [959. 由斜杠划分区域](https://leetcode-cn.com/submissions/detail/15769974/)
