@@ -181,6 +181,8 @@
 - []()
 
 ## 图 ##
+- [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/solution/997-zhao-dao-xiao-zhen-de-fa-guan-liang-chong-fang/)
+
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
