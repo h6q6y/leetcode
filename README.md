@@ -99,8 +99,10 @@
 ## 并查集 ##
 
 ## 拓扑排序 ##
+- [207. 课程表](https://leetcode-cn.com/submissions/detail/15414260/)
 
 ## 拒绝抽样 ##
+- [478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/solution/zai-yuan-nei-sui-ji-sheng-cheng-dian-by-leetcode/)
 
 ## 滑动窗口 ##
 - [5325. 包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/solution/javahua-dong-chuang-kou-by-shuaijie-zhang/)
