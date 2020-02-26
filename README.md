@@ -8,7 +8,7 @@
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/submissions/)
 - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/submissions/)
 - [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
-- [120. 三角形最小路径和](https://leetcode-cn.com/submissions/detail/5755333/)
+- [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/solution/c-by-lashizhendiniupi-30/)
 - [931. 下降路径最小和](https://leetcode-cn.com/submissions/detail/15752376/)
 *****************************************************************************
 （2）
