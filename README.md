@@ -39,8 +39,8 @@
 *******************************************************************************
 （6）
 - [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
-- [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 - [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
+- [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 *******************************************************************************
 （7）
 - [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/39573558/)
