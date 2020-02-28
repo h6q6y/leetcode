@@ -65,7 +65,7 @@
 - [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/solution/java-yi-huo-yun-suan-by-dukewen/)
 - [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
-- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/dai-ma-jian-bian-shuang-100-by-zjw1221/)
 - [5323. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/single-number/solution/c-by-lashizhendiniupi-26/)
 
 ## 排序 ##
