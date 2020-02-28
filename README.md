@@ -27,11 +27,11 @@
 *******************************************************************************
 （4）
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
+- [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/38640301/)
 - [647. 回文子串](https://leetcode-cn.com/submissions/detail/16752763/)
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/java-by-lashizhendiniupi/)
-- [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
-- [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/38640301/)
 - [516. 最长回文子序列](https://leetcode-cn.com/submissions/detail/25966577/)
+- [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
