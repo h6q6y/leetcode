@@ -45,8 +45,6 @@
 （7）
 - [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/39573558/)
 - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/solution/deng-chai-shu-lie-hua-fen-by-leetcode/)
-*******************************************************************************
-（8）
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
