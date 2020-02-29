@@ -58,6 +58,10 @@
 - [1027. 最长等差数列](https://leetcode-cn.com/submissions/detail/42467178/)
 - [1048. 最长字符串链](https://leetcode-cn.com/submissions/detail/26916822/)
 - [343. 整数拆分](https://leetcode-cn.com/submissions/detail/16753577/)
+- [322. 零钱兑换](https://leetcode-cn.com/problems/word-break/solution/dong-tai-gui-hua-si-yao-su-by-a380922457-9/)
+- []()
+- []()
+
 
 ## 位运算 ##
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/wei-yun-suan-jian-dan-ming-liao-by-lashizhendiniup/)
