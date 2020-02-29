@@ -74,6 +74,7 @@
 - [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/dai-ma-jian-bian-shuang-100-by-zjw1221/)
+- [191. 位1的个数](https://leetcode-cn.com/submissions/detail/25106060/)
 
 ## 排序 ##
 ### 简单 ###
