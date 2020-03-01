@@ -113,6 +113,7 @@
 
 ## 二分查找 ##
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
+- [154. 寻找旋转排序数组中的最小值 II](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24154_FindMinimuminRotatedSortedArrayII.java)
 
 ## 并查集 ##
 - [959. 由斜杠划分区域](https://leetcode-cn.com/submissions/detail/15769974/)
