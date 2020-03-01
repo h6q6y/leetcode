@@ -128,7 +128,7 @@
 
 ## 数组 ##
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
-- []()
+- [1007. 行相等的最少多米诺旋转](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241007_MinimumDominoRotationsForEqualRow.java)
 - []()
 - [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/solution/c-by-lashizhendiniupi-20/)
 - [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/solution/c-by-lashizhendiniupi-21/)
