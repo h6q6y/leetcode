@@ -112,6 +112,7 @@
 - [1099. 小于 K 的两数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241099_TwoSumLessThanK.java)
 - [15. 三数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%2415_3Sum.java)
 - [167. 两数之和 II - 输入有序数组](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24167_2SumII.java)
+- [18. 四数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%2418_4Sum.java)
 
 
 ## 二分查找 ##
