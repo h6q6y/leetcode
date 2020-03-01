@@ -148,6 +148,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 - [1014. 最佳观光组合](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241014_BestSightseeingPair.java)
+- [277. 搜寻名人](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24277_FindTheCelebrity.java)
 - []()
 
 ## 堆 ##
