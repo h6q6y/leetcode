@@ -111,6 +111,8 @@
 - [1213. 三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/solution/cben-ban-fa-by-hou-yao-kun/)
 - [1099. 小于 K 的两数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241099_TwoSumLessThanK.java)
 - [15. 三数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%2415_3Sum.java)
+- [167. 两数之和 II - 输入有序数组](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24167_2SumII.java)
+
 
 ## 二分查找 ##
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
