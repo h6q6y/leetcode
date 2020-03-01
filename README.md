@@ -115,6 +115,7 @@
 
 ## 并查集 ##
 - [959. 由斜杠划分区域](https://leetcode-cn.com/submissions/detail/15769974/)
+- [261. 以图判树](https://leetcode-cn.com/problems/graph-valid-tree/solution/java-pan-duan-tu-zhong-you-huan-de-san-chong-fang-/)
 
 ## 拓扑排序 ##
 - [207. 课程表](https://leetcode-cn.com/submissions/detail/15414260/)
