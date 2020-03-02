@@ -215,12 +215,9 @@
 
 ## 图 ##
 - [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/solution/997-zhao-dao-xiao-zhen-de-fa-guan-liang-chong-fang/)
+- [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/solution/zhe-chong-ti-du-you-kuang-jia-de-nei-fu-xiang-jie-/)
 
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
-- [1281. 整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solution/c-by-lashizhendiniupi-2/)
-- [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
-- [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/cjian-dan-zuo-fa-by-lashizhendiniupi/)
-- [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/solution/cbao-li-qiu-jie-si-lu-jian-dan-by-xiaoneng/)
-- []()
+- [1281. 整数的各位积
