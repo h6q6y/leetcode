@@ -151,6 +151,7 @@
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 - [1014. 最佳观光组合](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241014_BestSightseeingPair.java)
 - [277. 搜寻名人](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24277_FindTheCelebrity.java)
+- [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/c-by-lashizhendiniupi-33/)
 - []()
 
 ## 堆 ##
