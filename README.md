@@ -93,6 +93,7 @@
 
 ## BFS ##
 - [513. 找树左下角的值](https://leetcode-cn.com/submissions/detail/14903152/)
+- [994. 腐烂的橘子](https://leetcode-cn.com/submissions/detail/14837839/)
 
 ## 递归 ##
 - [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
