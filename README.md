@@ -159,6 +159,7 @@
 - [1266. 访问所有点的最小时间](https://leetcode-cn.com/submissions/detail/38047393/)
 - [1299. 将每个元素替换为右侧最大元素](https://leetcode-cn.com/submissions/detail/42047275/)
 - [804. 唯一摩尔斯密码词](https://leetcode-cn.com/submissions/detail/5460782/)
+- [832. 翻转图像](https://leetcode-cn.com/submissions/detail/5469094/)
 - []()
 
 ## 堆 ##
@@ -212,6 +213,8 @@
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cjian-dan-yi-dong-by-lashizhendiniupi/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/solution/csan-chong-jie-fa-shuang-zhi-zhen-fa-di-gui-fa-stl/)
+- [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
+- [1309. 解码字母到整数映射](https://leetcode-cn.com/submissions/detail/42345986/)
 
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
