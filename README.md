@@ -153,6 +153,7 @@
 - [1014. 最佳观光组合](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%241014_BestSightseeingPair.java)
 - [277. 搜寻名人](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24277_FindTheCelebrity.java)
 - [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/c-by-lashizhendiniupi-33/)
+- [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/c-by-lashizhendiniupi-34/)
 - []()
 
 ## 堆 ##
