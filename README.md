@@ -215,6 +215,7 @@
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/solution/csan-chong-jie-fa-shuang-zhi-zhen-fa-di-gui-fa-stl/)
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 - [1309. 解码字母到整数映射](https://leetcode-cn.com/submissions/detail/42345986/)
+- [180. 统计只含单一字母的子串](https://leetcode-cn.com/submissions/detail/29219341/)
 
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
