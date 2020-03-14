@@ -210,6 +210,8 @@
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
+- [760. 找出变位映射](https://leetcode-cn.com/submissions/detail/26639552/)
+- [1165. 单行键盘](https://leetcode-cn.com/problems/single-row-keyboard/)
 
 ## 树 ##
 ### 简单 ###
@@ -228,3 +230,4 @@
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
 - [372. 超级次方](https://leetcode-cn.com/problems/super-pow/solution/you-qian-ru-shen-kuai-su-mi-suan-fa-xiang-jie-by-l/)
 - [1281. 整数的各位积和之差](https://leetcode-cn.com/submissions/detail/47117011/)
+- [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi-35/)
