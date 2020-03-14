@@ -227,3 +227,4 @@
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
 - [1175. 质数排列](https://leetcode-cn.com/problems/prime-arrangements/solution/ti-mu-hen-jian-dan-bu-guo-you-ji-ge-zhu-yi-shi-xia/)
 - [372. 超级次方](https://leetcode-cn.com/problems/super-pow/solution/you-qian-ru-shen-kuai-su-mi-suan-fa-xiang-jie-by-l/)
+- [1281. 整数的各位积和之差](https://leetcode-cn.com/submissions/detail/47117011/)
