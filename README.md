@@ -158,6 +158,7 @@
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/c-by-lashizhendiniupi-34/)
 - [1266. 访问所有点的最小时间](https://leetcode-cn.com/submissions/detail/38047393/)
 - [1299. 将每个元素替换为右侧最大元素](https://leetcode-cn.com/submissions/detail/42047275/)
+- [804. 唯一摩尔斯密码词](https://leetcode-cn.com/submissions/detail/5460782/)
 - []()
 
 ## 堆 ##
