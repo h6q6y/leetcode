@@ -243,3 +243,4 @@
 - [1281. 整数的各位积和之差](https://leetcode-cn.com/submissions/detail/47117011/)
 - [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi-35/)
 - [1134. 阿姆斯特朗数](https://leetcode-cn.com/submissions/detail/26414485/)
+- [728. 自除数](https://leetcode-cn.com/submissions/detail/5146543/)
