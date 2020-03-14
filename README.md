@@ -218,6 +218,7 @@
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 - [760. 找出变位映射](https://leetcode-cn.com/submissions/detail/26639552/)
 - [1165. 单行键盘](https://leetcode-cn.com/problems/single-row-keyboard/)
+- [1370. 上升下降字符串](https://leetcode-cn.com/submissions/detail/51977203/)
 
 ## 树 ##
 ### 简单 ###
