@@ -122,6 +122,8 @@
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
 - [154. 寻找旋转排序数组中的最小值 II](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24154_FindMinimuminRotatedSortedArrayII.java)
 - [162. 寻找峰值](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24162_FindPeakElement.java)
+- [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/)
+
 
 ## 并查集 ##
 - [959. 由斜杠划分区域](https://leetcode-cn.com/submissions/detail/15769974/)
@@ -154,6 +156,7 @@
 - [277. 搜寻名人](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24277_FindTheCelebrity.java)
 - [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/c-by-lashizhendiniupi-33/)
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/c-by-lashizhendiniupi-34/)
+- [1266. 访问所有点的最小时间](https://leetcode-cn.com/submissions/detail/38047393/)
 - []()
 
 ## 堆 ##
@@ -197,6 +200,7 @@
 
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
+- [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/)
 - []()
 
 ## 字符串 ##
