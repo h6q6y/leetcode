@@ -160,6 +160,10 @@
 - [1299. 将每个元素替换为右侧最大元素](https://leetcode-cn.com/submissions/detail/42047275/)
 - [804. 唯一摩尔斯密码词](https://leetcode-cn.com/submissions/detail/5460782/)
 - [832. 翻转图像](https://leetcode-cn.com/submissions/detail/5469094/)
+- [942. 增减字符串匹配](https://leetcode-cn.com/submissions/detail/15200704/)
+- [293. 翻转游戏](https://leetcode-cn.com/submissions/detail/26399919/)
+- [977. 有序数组的平方](https://leetcode-cn.com/submissions/detail/47310251/)
+- [1064. 不动点](https://leetcode-cn.com/submissions/detail/47267300/)
 - []()
 
 ## 堆 ##
@@ -232,6 +236,8 @@
 - [938. 二叉搜索树的范围和](https://leetcode-cn.com/submissions/detail/18847961/)
 - [104. 二叉树的最大深度](https://leetcode-cn.com/submissions/detail/4978511/)
 - [590. N叉树的后序遍历](https://leetcode-cn.com/submissions/detail/5419763/)
+- [589. N叉树的前序遍历](https://leetcode-cn.com/submissions/detail/5390358/)
+- [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 - []()
 
 ## 图 ##
