@@ -172,7 +172,7 @@
 - [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
 - [5357. 设计一个支持增量操作的栈](https://leetcode-cn.com/submissions/detail/54022955/)
 - [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/)
-- []()
+- [500. 键盘行](https://leetcode-cn.com/submissions/detail/47321925/)
 - []()
 - []()
 
@@ -244,7 +244,7 @@
 - [1165. 单行键盘](https://leetcode-cn.com/problems/single-row-keyboard/)
 - [1370. 上升下降字符串](https://leetcode-cn.com/submissions/detail/51977203/)
 - [359. 日志速率限制器](https://leetcode-cn.com/submissions/detail/28123150/)
-- []()
+- [1207. 独一无二的出现次数](https://leetcode-cn.com/submissions/detail/35089470/)
 - []()
 - []()
 
