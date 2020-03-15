@@ -164,6 +164,10 @@
 - [293. 翻转游戏](https://leetcode-cn.com/submissions/detail/26399919/)
 - [977. 有序数组的平方](https://leetcode-cn.com/submissions/detail/47310251/)
 - [1064. 不动点](https://leetcode-cn.com/submissions/detail/47267300/)
+- [561. 数组拆分 I](https://leetcode-cn.com/submissions/detail/4650646/)
+- [852. 山脉数组的峰顶索引](https://leetcode-cn.com/submissions/detail/47315440/)
+- []()
+- []()
 - []()
 
 ## 堆 ##
@@ -221,6 +225,11 @@
 - [1309. 解码字母到整数映射](https://leetcode-cn.com/submissions/detail/42345986/)
 - [180. 统计只含单一字母的子串](https://leetcode-cn.com/submissions/detail/29219341/)
 - [1051. 高度检查器](https://leetcode-cn.com/submissions/detail/19776228/)
+- [557. 反转字符串中的单词 III](https://leetcode-cn.com/submissions/detail/4929717/)
+- []()
+- []()
+- []()
+- []()
 
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
@@ -238,6 +247,9 @@
 - [590. N叉树的后序遍历](https://leetcode-cn.com/submissions/detail/5419763/)
 - [589. N叉树的前序遍历](https://leetcode-cn.com/submissions/detail/5390358/)
 - [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
+- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+- []()
+- []()
 - []()
 
 ## 图 ##
@@ -252,3 +264,7 @@
 - [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi-35/)
 - [1134. 阿姆斯特朗数](https://leetcode-cn.com/submissions/detail/26414485/)
 - [728. 自除数](https://leetcode-cn.com/submissions/detail/5146543/)
+- [292. Nim 游戏](https://leetcode-cn.com/submissions/detail/5094800/)
+- []()
+- []()
+- []()
