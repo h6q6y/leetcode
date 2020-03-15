@@ -171,7 +171,7 @@
 - [852. 山脉数组的峰顶索引](https://leetcode-cn.com/submissions/detail/47315440/)
 - [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
 - [5357. 设计一个支持增量操作的栈](https://leetcode-cn.com/submissions/detail/54022955/)
-- []()
+- [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/)
 - []()
 - []()
 - []()
@@ -259,7 +259,7 @@
 - [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [1379. 找出克隆二叉树中的相同节点](https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
-- []()
+- [559. N叉树的最大深度](https://leetcode-cn.com/submissions/detail/16529095/)
 - []()
 
 ## 图 ##
