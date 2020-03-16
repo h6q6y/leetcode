@@ -173,6 +173,10 @@
 - [5357. 设计一个支持增量操作的栈](https://leetcode-cn.com/submissions/detail/54022955/)
 - [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/)
 - [500. 键盘行](https://leetcode-cn.com/submissions/detail/47321925/)
+- [905. 按奇偶排序数组](https://leetcode-cn.com/submissions/detail/47322523/)
+- [1237. 找出给定方程的正整数解](https://leetcode-cn.com/submissions/detail/35167409/)
+- [1217. 玩筹码](https://leetcode-cn.com/problems/play-with-chips/solution/jiu-fen-yue-du-li-jie-yi-fen-bian-cheng-neng-li-by/)
+- [908. 最小差值 I](https://leetcode-cn.com/submissions/detail/15190994/)
 - []()
 - []()
 
@@ -218,7 +222,7 @@
 ## 链表 ##
 - [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/solution/c-by-lashizhendiniupi-7/)
 - [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/)
-- []()
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/solution/die-dai-he-di-gui-di-fan-zhuan-lian-biao-by-pendyg/)
 
 ## 字符串 ##
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/solution/c-by-lashizhendiniupi-14/)
@@ -260,7 +264,15 @@
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [1379. 找出克隆二叉树中的相同节点](https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 - [559. N叉树的最大深度](https://leetcode-cn.com/submissions/detail/16529095/)
+- [965. 单值二叉树](https://leetcode-cn.com/submissions/detail/15028788/)
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## 图 ##
 - [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/solution/997-zhao-dao-xiao-zhen-de-fa-guan-liang-chong-fang/)
