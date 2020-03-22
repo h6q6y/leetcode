@@ -178,6 +178,9 @@
 - [1217. 玩筹码](https://leetcode-cn.com/problems/play-with-chips/solution/jiu-fen-yue-du-li-jie-yi-fen-bian-cheng-neng-li-by/)
 - [908. 最小差值 I](https://leetcode-cn.com/submissions/detail/15190994/)
 - [867. 转置矩阵](https://leetcode-cn.com/submissions/detail/47361743/)
+- [945. 使数组唯一的最小增量](https://leetcode-cn.com/submissions/detail/29034810/)
+- []()
+- []()
 - []()
 
 ## 堆 ##
