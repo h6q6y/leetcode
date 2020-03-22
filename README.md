@@ -179,7 +179,7 @@
 - [908. 最小差值 I](https://leetcode-cn.com/submissions/detail/15190994/)
 - [867. 转置矩阵](https://leetcode-cn.com/submissions/detail/47361743/)
 - [945. 使数组唯一的最小增量](https://leetcode-cn.com/submissions/detail/29034810/)
-- []()
+- [5178. 四因数](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/submissions/)
 - []()
 - []()
 
