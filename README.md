@@ -181,7 +181,7 @@
 - [945. 使数组唯一的最小增量](https://leetcode-cn.com/submissions/detail/29034810/)
 - [5178. 四因数](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/submissions/)
 - [5364. 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/submissions/)
-- []()
+- [876. 链表的中间结点](https://leetcode-cn.com/submissions/detail/56108122/)
 - []()
 - []()
 
