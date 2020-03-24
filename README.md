@@ -2,7 +2,7 @@
 ## 动态规划 ##
 *****************************************************************************
 （1）
-- [70. 爬楼梯](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/solution/c-by-lashizhendiniupi/)
+- [70. 爬楼梯](https://leetcode-cn.com/submissions/detail/56608149/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/solution/c-by-lashizhendiniupi-19/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/submissions/)
