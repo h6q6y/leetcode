@@ -7,7 +7,7 @@
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/solution/dong-tai-gui-hua-jian-dan-ming-liao-ao-quan-bu-ji-/) 
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/submissions/)
 - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/solution/java-by-lashizhendiniupi-3/)
-- [64. 最小路径和](https://leetcode-cn.com/submissions/detail/15382243/)
+- [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/solution/java-by-lashizhendiniupi-4/)
 - [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/solution/c-by-lashizhendiniupi-30/)
 - [931. 下降路径最小和](https://leetcode-cn.com/submissions/detail/15752376/)
 *****************************************************************************
