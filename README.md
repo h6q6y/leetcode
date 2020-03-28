@@ -245,7 +245,6 @@
 - [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/solution/hqyxian-jia-hou-jian-deng-yu-0de-shi-hou-jiu-shi-y/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cjian-dan-yi-dong-by-lashizhendiniupi/)
 - [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/solution/csan-chong-jie-fa-shuang-zhi-zhen-fa-di-gui-fa-stl/)
-- [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 - [1309. 解码字母到整数映射](https://leetcode-cn.com/submissions/detail/42345986/)
 - [180. 统计只含单一字母的子串](https://leetcode-cn.com/submissions/detail/29219341/)
 - [1051. 高度检查器](https://leetcode-cn.com/submissions/detail/19776228/)
