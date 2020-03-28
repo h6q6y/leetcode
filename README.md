@@ -170,7 +170,6 @@
 - [942. 增减字符串匹配](https://leetcode-cn.com/submissions/detail/15200704/)
 - [293. 翻转游戏](https://leetcode-cn.com/submissions/detail/26399919/)
 - [977. 有序数组的平方](https://leetcode-cn.com/submissions/detail/47310251/)
-- [1064. 不动点](https://leetcode-cn.com/submissions/detail/47267300/)
 - [561. 数组拆分 I](https://leetcode-cn.com/submissions/detail/4650646/)
 - [852. 山脉数组的峰顶索引](https://leetcode-cn.com/submissions/detail/47315440/)
 - [346. 数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)
