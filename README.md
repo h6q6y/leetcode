@@ -262,7 +262,7 @@
 ## 哈希表 ##
 - [760. 找出变位映射](https://leetcode-cn.com/problems/find-anagram-mappings/solution/ha-xi-biao-jian-dan-ao-by-grass_god/)
 - [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
-- [760. 找出变位映射](https://leetcode-cn.com/submissions/detail/26639552/)
+- [760. 找出变位映射](https://leetcode-cn.com/submissions/detail/47126259/)
 - [1165. 单行键盘](https://leetcode-cn.com/problems/single-row-keyboard/)
 - [1370. 上升下降字符串](https://leetcode-cn.com/submissions/detail/51977203/)
 - [359. 日志速率限制器](https://leetcode-cn.com/submissions/detail/28123150/)
