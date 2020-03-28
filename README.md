@@ -160,7 +160,7 @@
 - [1323. 6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/solution/c-by-lashizhendiniupi-10/)
 - [1346. 检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/solution/czui-jian-dan-zuo-fa-by-lashizhendiniupi/)
 - [1014. 最佳观光组合](https://leetcode-cn.com/submissions/detail/57711942/)
-- [277. 搜寻名人](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24277_FindTheCelebrity.java)
+- [277. 搜寻名人](https://leetcode-cn.com/submissions/detail/57714234/)
 - [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/c-by-lashizhendiniupi-33/)
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/c-by-lashizhendiniupi-34/)
 - [1266. 访问所有点的最小时间](https://leetcode-cn.com/submissions/detail/38047393/)
