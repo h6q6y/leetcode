@@ -198,7 +198,7 @@
 *******************************************************************************
 - [703. 数据流中的第K大元素](https://leetcode-cn.com/submissions/detail/5453539/)
 - [1046. 最后一块石头的重量](https://leetcode-cn.com/submissions/detail/30745141/)
-- [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/solution/suo-yin-bang-ding-jing-dian-ti-xing-by-xiao-xiao-s/)
+- [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/submissions/detail/45341935/)
 - [5350. 将整数按权重排序](https://leetcode-cn.com/submissions/detail/55975822/)
 *******************************************************************************
 
