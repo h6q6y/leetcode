@@ -127,7 +127,7 @@
 
 ## 二分查找 ##
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
-- [154. 寻找旋转排序数组中的最小值 II](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24154_FindMinimuminRotatedSortedArrayII.java)
+- [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/submissions/detail/57828776/)
 - [162. 寻找峰值](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24162_FindPeakElement.java)
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/)
 
