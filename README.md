@@ -189,7 +189,7 @@
 - [1272. 删除区间](https://leetcode-cn.com/submissions/detail/42460194/)
 - [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
 - [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
-- []()
+- [370. 区间加法](https://leetcode-cn.com/problems/range-addition/)
 - []()
 
 ## 堆 ##
