@@ -141,7 +141,7 @@
 
 ## 滑动窗口 ##
 - [5325. 包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/solution/javahua-dong-chuang-kou-by-shuaijie-zhang/)
-- [209. 长度最小的子数组](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%24209_MinimumSizeSubarraySum.java)
+- [209. 长度最小的子数组](https://leetcode-cn.com/submissions/detail/59237083/)
 
 ## 数组 ##
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/solution/c-by-lashizhendiniupi-27/)
