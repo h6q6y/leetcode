@@ -84,7 +84,6 @@
 - [191. 位1的个数](https://leetcode-cn.com/submissions/detail/25106060/)
 
 ## 排序 ##
-### 简单 ###
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
 - [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
 - [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
@@ -113,6 +112,8 @@
 
 ## 随机 ##
 - [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/solution/yong-rand7-shi-xian-rand10-by-leetcode/)
+### 拒绝抽样 ###
+- [478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/solution/zai-yuan-nei-sui-ji-sheng-cheng-dian-by-leetcode/)
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
@@ -137,9 +138,6 @@
 
 ## 拓扑排序 ##
 - [207. 课程表](https://leetcode-cn.com/submissions/detail/15414260/)
-
-## 拒绝抽样 ##
-- [478. 在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/solution/zai-yuan-nei-sui-ji-sheng-cheng-dian-by-leetcode/)
 
 ## 滑动窗口 ##
 - [5325. 包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/solution/javahua-dong-chuang-kou-by-shuaijie-zhang/)
