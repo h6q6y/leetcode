@@ -43,7 +43,7 @@
 *******************************************************************************
 （6）
 - [221. 最大正方形](https://leetcode-cn.com/submissions/detail/59447828/)
-- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
+- [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/59458455/)
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 *******************************************************************************
 （7）背包问题
