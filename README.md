@@ -42,7 +42,7 @@
 - [1025. 除数博弈](https://leetcode-cn.com/submissions/detail/47633222/)
 *******************************************************************************
 （6）
-- [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
+- [221. 最大正方形](https://leetcode-cn.com/submissions/detail/59447828/)
 - [1277. 统计全为 1 的正方形子矩阵](https://leetcode-cn.com/submissions/detail/38627315/)
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 *******************************************************************************
