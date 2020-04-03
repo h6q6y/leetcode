@@ -48,7 +48,7 @@
 *******************************************************************************
 （7）背包问题
 - [377. 组合总和 Ⅳ](https://leetcode-cn.com/submissions/detail/59443235/)
-- [322. 零钱兑换](https://leetcode-cn.com/submissions/detail/29068913/)
+- [322. 零钱兑换](https://leetcode-cn.com/submissions/detail/59444517/)
 *******************************************************************************
 （8）
 - [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/39573558/)
