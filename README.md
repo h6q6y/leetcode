@@ -60,7 +60,7 @@
 - [361. 轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)
 - [873. 最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/solution/zhuang-tai-ding-yi-hen-shi-zhong-yao-by-christmas_/)
 - [1027. 最长等差数列](https://leetcode-cn.com/submissions/detail/42467178/)
-- [1048. 最长字符串链](https://leetcode-cn.com/submissions/detail/26916822/)
+- [1048. 最长字符串链](https://leetcode-cn.com/submissions/detail/59434259/)
 - [343. 整数拆分](https://leetcode-cn.com/submissions/detail/16753577/)
 - []()
 - []()
