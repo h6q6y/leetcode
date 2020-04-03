@@ -47,7 +47,7 @@
 - [750. 角矩形的数量](https://leetcode-cn.com/problems/number-of-corner-rectangles/)
 *******************************************************************************
 （7）背包问题
-- [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
+- [377. 组合总和 Ⅳ](https://leetcode-cn.com/submissions/detail/59443235/)
 - [322. 零钱兑换](https://leetcode-cn.com/submissions/detail/29068913/)
 *******************************************************************************
 （8）
