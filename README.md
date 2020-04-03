@@ -29,7 +29,7 @@
 *******************************************************************************
 （4）
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
-- [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/38640301/)
+- [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/59402057/)
 - [647. 回文子串](https://leetcode-cn.com/submissions/detail/16752763/)
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/java-by-lashizhendiniupi/)
 - [516. 最长回文子序列](https://leetcode-cn.com/submissions/detail/25966577/)
@@ -81,7 +81,6 @@
 - [784. 字母大小写全排列](https://leetcode-cn.com/submissions/detail/25101457/)
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/dai-ma-jian-bian-shuang-100-by-zjw1221/)
-- [191. 位1的个数](https://leetcode-cn.com/submissions/detail/25106060/)
 
 ## 排序 ##
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
