@@ -9,7 +9,7 @@
 - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/solution/java-by-lashizhendiniupi-3/)
 - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/solution/java-by-lashizhendiniupi-4/)
 - [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/solution/javadong-tai-gui-hua-si-lu-yi-ji-dai-ma-shi-xian-b/)
-- [931. 下降路径最小和](https://leetcode-cn.com/submissions/detail/15752376/)
+- [931. 下降路径最小和](https://leetcode-cn.com/submissions/detail/59461789/)
 *****************************************************************************
 （2）
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
