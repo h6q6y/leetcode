@@ -30,11 +30,15 @@
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/solution/java-dp-by-zxy0917-5/)
 - [1143. 最长公共子序列](https://leetcode-cn.com/submissions/detail/59402057/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/submissions/detail/29202156/)
+
 - [647. 回文子串](https://leetcode-cn.com/submissions/detail/16752763/)
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/java-by-lashizhendiniupi/)
 - [516. 最长回文子序列](https://leetcode-cn.com/submissions/detail/25966577/)
 - [132. 分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/solution/dong-tai-gui-hua-si-yao-su-by-a380922457-10/)
+
 - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/solution/dong-tai-gui-hua-si-yao-su-by-a380922457-9/)
+- [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/59765076/)
+- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 *******************************************************************************
 （5）
 - [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/solution/jie-jue-bo-yi-wen-ti-de-dong-tai-gui-hua-tong-yong/)
@@ -50,9 +54,8 @@
 - [322. 零钱兑换](https://leetcode-cn.com/submissions/detail/59444517/)
 *******************************************************************************
 （8）
-- [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/59765076/)
+
 - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/solution/deng-chai-shu-lie-hua-fen-by-leetcode/)
-- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
 - [152. 乘积最大子序列](https://leetcode-cn.com/submissions/detail/19994283/)
 - [646. 最长数对链](https://leetcode-cn.com/submissions/detail/16756212/)
