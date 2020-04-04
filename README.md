@@ -14,7 +14,6 @@
 （2）
 - [198. 打家劫舍](https://leetcode-cn.com/submissions/detail/4791961/)
 - [面试题 17.16. 按摩师](https://leetcode-cn.com/submissions/detail/56576369/)
-- []()
 - [256. 粉刷房子](https://leetcode-cn.com/problems/house-robber/solution/java-by-lashizhendiniupi-5/)
 - [276. 栅栏涂色](https://leetcode-cn.com/problems/paint-fence/solution/c-dp-zong-jie-yi-xia-liang-chong-si-lu-by-sheng-be/)
 - [338. 比特位计数](https://leetcode-cn.com/submissions/detail/47737818/)
@@ -51,7 +50,7 @@
 - [322. 零钱兑换](https://leetcode-cn.com/submissions/detail/59444517/)
 *******************************************************************************
 （8）
-- [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/39573558/)
+- [673. 最长递增子序列的个数](https://leetcode-cn.com/submissions/detail/59765076/)
 - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/solution/deng-chai-shu-lie-hua-fen-by-leetcode/)
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/bu-tong-de-er-cha-sou-suo-shu-by-leetcode/)
 - [1227. 飞机座位分配概率](https://leetcode-cn.com/submissions/detail/47998544/)
