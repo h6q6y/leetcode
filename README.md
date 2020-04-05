@@ -246,7 +246,7 @@
 - [1051. 高度检查器](https://leetcode-cn.com/submissions/detail/19776228/)
 - [557. 反转字符串中的单词 III](https://leetcode-cn.com/submissions/detail/4929717/)
 - [1374. 生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
-- [893. 特殊等价字符串组](https://leetcode-cn.com/submissions/detail/15101167/)
+- [893. 特殊等价字符串组](https://leetcode-cn.com/submissions/detail/60160535/)
 - [171. Excel表列序号](https://leetcode-cn.com/submissions/detail/5014020/)
 - []()
 - []()
