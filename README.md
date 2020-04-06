@@ -187,6 +187,11 @@
 - [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/)
 - [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
 - [370. 区间加法](https://leetcode-cn.com/problems/range-addition/)
+- [1375. 灯泡开关 III](https://leetcode-cn.com/problems/bulb-switcher-iii/submissions/)
+- []()
+- []()
+- []()
+- []()
 - []()
 
 ## 堆 ##
