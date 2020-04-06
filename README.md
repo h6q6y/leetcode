@@ -82,8 +82,11 @@
 - [1290. 二进制链表转整数](https://leetcode-cn.com/submissions/detail/47879347/)
 - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/dai-ma-jian-bian-shuang-100-by-zjw1221/)
 - [1404. 将二进制表示减到 1 的步骤数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/)
+- [859. 亲密字符串](https://leetcode-cn.com/submissions/detail/4880605/)
 - []()
 - []()
+- []()
+
 
 ## 排序 ##
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
