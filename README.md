@@ -291,6 +291,11 @@
 - [1207. 独一无二的出现次数](https://leetcode-cn.com/submissions/detail/35089470/)
 - [1386. 安排电影院座位](https://leetcode-cn.com/submissions/detail/56228180/)
 - [811. 子域名访问计数](https://leetcode-cn.com/submissions/detail/5461645/)
+- [1056. 易混淆数](https://leetcode-cn.com/submissions/detail/60458858/)
+- []()
+- []()
+- []()
+- []()
 
 ## 树 ##
 ### 简单 ###
