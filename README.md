@@ -132,7 +132,8 @@
 - [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/submissions/detail/57824062/)
 - [15. 三数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%2415_3Sum.java)
 - [18. 四数之和](https://leetcode-cn.com/submissions/detail/57824648/)
-
+- [408. 有效单词缩写](https://leetcode-cn.com/problems/valid-word-abbreviation/submissions/)
+- []()
 
 ## 二分查找 ##
 - [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/solution/er-fen-cha-zhao-by-mufanlee/)
