@@ -268,7 +268,7 @@
 - [893. 特殊等价字符串组](https://leetcode-cn.com/submissions/detail/60160535/)
 - [171. Excel表列序号](https://leetcode-cn.com/submissions/detail/5014020/)
 - [58. 最后一个单词的长度](https://leetcode-cn.com/submissions/detail/60423219/)
-- []()
+- [686. 重复叠加字符串匹配](https://leetcode-cn.com/submissions/detail/60430343/)
 - []()
 - []()
 - []()
