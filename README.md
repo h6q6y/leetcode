@@ -92,6 +92,9 @@
 - [349. 两个数组的交集](https://leetcode-cn.com/submissions/detail/47842798/)
 - [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
 - [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
+- [475. 供暖器](https://leetcode-cn.com/problems/heaters/)
+- []()
+- []()
 
 ## DFS ##
 - [339. 嵌套列表权重和](https://leetcode-cn.com/problems/nested-list-weight-sum/)
