@@ -321,6 +321,6 @@
 - [1134. 阿姆斯特朗数](https://leetcode-cn.com/submissions/detail/26414485/)
 - [728. 自除数](https://leetcode-cn.com/submissions/detail/5146543/)
 - [292. Nim 游戏](https://leetcode-cn.com/submissions/detail/5094800/)
-- []()
+- [204. 计数质数](https://leetcode-cn.com/submissions/detail/60424485/)
 - []()
 - []()
