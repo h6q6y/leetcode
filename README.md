@@ -323,5 +323,5 @@
 - [728. 自除数](https://leetcode-cn.com/submissions/detail/5146543/)
 - [292. Nim 游戏](https://leetcode-cn.com/submissions/detail/5094800/)
 - [204. 计数质数](https://leetcode-cn.com/submissions/detail/60424485/)
-- []()
+- [840. 矩阵中的幻方](https://leetcode-cn.com/submissions/detail/60431834/)
 - []()
