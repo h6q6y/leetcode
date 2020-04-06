@@ -325,6 +325,6 @@
 - [292. Nim 游戏](https://leetcode-cn.com/submissions/detail/5094800/)
 - [204. 计数质数](https://leetcode-cn.com/submissions/detail/60424485/)
 - [840. 矩阵中的幻方](https://leetcode-cn.com/problems/magic-squares-in-grid/)
-- []()
+- [7. 整数反转](https://leetcode-cn.com/submissions/detail/60441185/)
 - []()
 - []()
