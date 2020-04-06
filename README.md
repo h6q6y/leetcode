@@ -312,6 +312,7 @@
 - [997. 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/solution/997-zhao-dao-xiao-zhen-de-fa-guan-liang-chong-fang/)
 - [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/solution/zhe-chong-ti-du-you-kuang-jia-de-nei-fu-xiang-jie-/)
 - [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/)
+- [874. 模拟行走机器人](https://leetcode-cn.com/submissions/detail/60439746/)
 
 ## 其他 ##
 - [1118. 一月有多少天](https://leetcode-cn.com/problems/number-of-days-in-a-month/solution/song-fen-ti-ao-by-lashizhendiniupi/)
