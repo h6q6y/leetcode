@@ -93,6 +93,8 @@
 - [1086. 前五科的均分](https://leetcode-cn.com/submissions/detail/26397663/)
 - [1122. 数组的相对排序](https://leetcode-cn.com/submissions/detail/47855468/)
 - [475. 供暖器](https://leetcode-cn.com/problems/heaters/)
+- [414. 第三大的数](https://leetcode-cn.com/submissions/detail/60456669/)
+- []()
 - []()
 - []()
 
