@@ -117,6 +117,7 @@
 
 ## 分治 ##
 - [169. 多数元素](https://leetcode-cn.com/problems/majority-element/solution/fen-zhi-di-gui-fang-fa-by-cang-cu-de-xia-tian/)
+- []()
 
 ## 随机 ##
 - [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/solution/yong-rand7-shi-xian-rand10-by-leetcode/)
@@ -125,6 +126,8 @@
 
 ## 贪心 ##
 - [1196. 最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/solution/c-by-lashizhendiniupi-22/)
+- [605. 种花问题](https://leetcode-cn.com/submissions/detail/60408005/)
+
 
 ## 双指针 ##
 - [1213. 三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/solution/cben-ban-fa-by-hou-yao-kun/)
