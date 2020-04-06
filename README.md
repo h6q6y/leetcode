@@ -136,6 +136,7 @@
 - [15. 三数之和](https://github.com/JuiceZhou/Leetcode/blob/master/java/array/%2415_3Sum.java)
 - [18. 四数之和](https://leetcode-cn.com/submissions/detail/57824648/)
 - [408. 有效单词缩写](https://leetcode-cn.com/problems/valid-word-abbreviation/submissions/)
+- [633. 平方数之和](https://leetcode-cn.com/submissions/detail/60425098/)
 - []()
 
 ## 二分查找 ##
